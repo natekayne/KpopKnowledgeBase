@@ -1,0 +1,1 @@
+I am a college student who enjoy K-Pop. I enjoy listening and learning about different K-Pop groups, their performances, fashion styles, and culture. I chose K-Pop because I already love it and could learn more about it throughout the semester. I've been a fan for a few years now.

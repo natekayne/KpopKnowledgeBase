@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: K-Pop Knowledge Base
 ---
-## The index page
+## K-Pop Knowledge Base
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This knowledge base is about K-Pop. It will include the music, artists, groups, special performances, history, and culture.
 
 ## Editing pages
 
