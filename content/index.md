@@ -1,10 +1,15 @@
 ---
 title: K-Pop Knowledge Base
 ---
-## K-Pop Knowledge Base
-
 This knowledge base is about K-Pop. It will include the music, artists, groups, special performances, history, and culture.
 
+## Main Categories
+- [[kpop-history/index|History & Generations]]
+- [[artists-groups/index|Artists & Groups]]
+- [[music-albums/index|Music & Albums]]
+- [[performance-choreography/index|Performance & Choreography]]
+- [[fashion-visual-concepts/index|Fashion & Visual Concepts]]
+- [[culture-community/index|Culture & Community]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
