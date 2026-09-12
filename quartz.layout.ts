@@ -1,33 +1,33 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-const kpopHistoryOrder: Record<string, number> = {
-  "first-generation": 1,
-  "second-generation": 2,
-  "third-generation": 3,
-  "fourth-generation": 4,
-  "global-expansion": 5,
-}
-
 const customSort = (a: any, b: any) => {
-  const aOrder = kpopHistoryOrder[a.name]
-  const bOrder = kpopHistoryOrder[b.name]
+  const kpopHistoryOrder = [
+    "first-generation",
+    "second-generation",
+    "third-generation",
+    "fourth-generation",
+    "global-expansion",
+  ]
 
-  if (aOrder !== undefined && bOrder !== undefined) {
+  const aOrder = kpopHistoryOrder.indexOf(a.slugSegment)
+  const bOrder = kpopHistoryOrder.indexOf(b.slugSegment)
+
+  if (aOrder !== -1 && bOrder !== -1) {
     return aOrder - bOrder
   }
 
-  if (aOrder !== undefined) return -1
-  if (bOrder !== undefined) return 1
+  if (aOrder !== -1) return -1
+  if (bOrder !== -1) return 1
 
-  if ((!a.file && !b.file) || (a.file && b.file)) {
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
     return a.displayName.localeCompare(b.displayName, undefined, {
       numeric: true,
       sensitivity: "base",
     })
   }
 
-  return a.file ? 1 : -1
+  return a.isFolder ? -1 : 1
 }
 
 // components shared across all pages
