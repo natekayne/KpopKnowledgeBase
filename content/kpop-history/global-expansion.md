@@ -20,3 +20,16 @@ The biggest change is that K-Pop is no longer treated like music that only matte
 Modern K-Pop is built around a global audience. New groups can gain international fans almost immediately through social media, streaming, and online content. The industry is also much more connected to global fashion brands, festivals, award shows, and international collaborations than it was during the earlier generations.
 
 > K-Pop's global growth happened because each generation expanded on what the generation before it had already started.
+
+## Global K-Pop Fandom
+
+One of the coolest parts of K-pop becoming global is how connected fans are, even when they live in completely different countries. Concerts have become a huge part of that because fans bring lightsticks, banners, and sometimes even coordinate colors together. It makes the crowd feel like part of the show instead of just people watching it. 
+
+![[assets/blackpink-pink-ocean.jpg]]
+
+*BLACKPINK fans creating a “pink ocean” during a concert in Thailand.*
+## K-Pop Around the World
+
+K-pop did not become globally popular overnight. It grew through social media, international tours, dedicated fan communities, and more people outside of South Korea becoming interested in Korean music and culture. The PDF below gives more background on how K-pop developed and became such a major part of pop culture around the world.
+
+![[assets/kpop-new-force.pdf]]
