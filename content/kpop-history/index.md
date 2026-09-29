@@ -1,16 +1,23 @@
 ---
-title: History & Generations
+title: K-Pop History
+date: 2026-09-29
 ---
-## Related Categories
 
-K-Pop's history is closely connected to the growth of its fans and global communities, which is explored further in [[culture-community/index|Culture & Community]].
+# K-Pop History
 
-## K-Pop History Pages
+K-Pop changed a lot over time, and each generation helped shape what the industry looks like now.
 
-This section follows how K-Pop developed from the early idol industry into the global music industry it is today. 
+This section goes from the early idol era to K-Pop becoming a global music industry.
 
-- [[first-generation|First Generation of K-Pop]] 
-- [[second-generation|Second Generation of K-Pop]] 
-- [[third-generation|Third Generation of K-Pop]] 
-- [[fourth-generation|Fourth Generation of K-Pop]] 
-- [[global-expansion|Global Expansion of K-Pop]]
+## Generations
+
+- [[first-generation|First Generation]]
+- [[second-generation|Second Generation]]
+- [[third-generation|Third Generation]]
+- [[fourth-generation|Fourth Generation]]
+- [[global-expansion|Global Expansion]]
+
+## Related
+
+- [[../artists-groups/index|Artists & Groups]]
+- [[../culture-community/index|Culture & Community]]

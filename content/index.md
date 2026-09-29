@@ -1,47 +1,24 @@
 ---
 title: K-Pop Knowledge Base
+date: 2026-09-29
 ---
-This knowledge base is about K-Pop. It will include the music, artists, groups, special performances, history, and culture.
 
-## Main Categories
-- [[kpop-history/index|History & Generations]]
+# K-Pop Knowledge Base
+
+Welcome to my K-Pop Knowledge Base! This site covers K-Pop history, groups, fandom culture, music, fashion, and performance.
+
+K-Pop has changed a lot between generations, and honestly that is part of what makes it so fun to follow.
+
+## Explore
+
 - [[artists-groups/index|Artists & Groups]]
+- [[kpop-history/index|K-Pop History]]
 - [[music-albums/index|Music & Albums]]
 - [[performance-choreography/index|Performance & Choreography]]
 - [[fashion-visual-concepts/index|Fashion & Visual Concepts]]
 - [[culture-community/index|Culture & Community]]
-## Editing pages
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+## More
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+- [[About|About]]
+- [[references|References]]

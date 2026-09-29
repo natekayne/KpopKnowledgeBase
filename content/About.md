@@ -1,1 +1,16 @@
-I am a college student who enjoy K-Pop. I enjoy listening and learning about different K-Pop groups, their performances, fashion styles, and culture. I chose K-Pop because I already love it and could learn more about it throughout the semester. I've been a fan for a few years now.
+---
+title: About
+date: 2026-09-29
+---
+
+# About
+
+This K-Pop Knowledge Base was made to organize information about K-Pop history, artists, fandom culture, music, fashion, and performances.
+
+I picked K-Pop because I already follow the genre and wanted to build something around a topic I actually enjoy.
+
+## Start Exploring
+
+- [[index|Home]]
+- [[kpop-history/index|K-Pop History]]
+- [[artists-groups/index|Artists & Groups]]
