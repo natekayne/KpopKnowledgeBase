@@ -20,3 +20,5 @@ Their concerts are also known for huge lightstick crowds and the iconic pink oce
 - [[artists-groups/index|Artists & Groups]]
 - [[fashion-visual-concepts/index|Fashion & Visual Concepts]]
 - [[kpop-history/global-expansion|Global Expansion]]
+
+Source: [GRAMMY — BLACKPINK's Rapid Rise to Global K-Pop Superstardom](https://www.grammy.com/news/explore-blackpinks-rapid-rise-global-k-pop-superstardom-record/)

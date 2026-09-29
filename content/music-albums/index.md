@@ -17,3 +17,5 @@ The music itself can jump between pop, hip-hop, R&B, EDM, rock, and basically an
 
 - [[artists-groups/index|Artists & Groups]]
 - [[fashion-visual-concepts/index|Fashion & Visual Concepts]]
+
+Source: [Korea.net — K-Pop album exports in Q1 smash record](https://www.korea.net/NewsFocus/Business/view?articleId=291600)

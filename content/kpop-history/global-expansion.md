@@ -44,3 +44,5 @@ The PDF below gives more background on how K-Pop developed into such a major par
 ![[assets/kpop-new-force.pdf]]
 
 > K-Pop became global because each generation built on what came before it.
+
+Source: [Korea.net — K-Pop enters mainstream via connecting people](https://www.korea.net/NewsFocus/Culture/view?articleId=296864&koreanId=295372)

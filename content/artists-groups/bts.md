@@ -20,3 +20,5 @@ They are also a good example of how fandom culture and online communities can he
 - [[artists-groups/index|Artists & Groups]]
 - [[culture-community/index|Culture & Community]]
 - [[kpop-history/third-generation|Third Generation]]
+
+Source: [Korea.net — BTS: Global Success and Musical Universe](https://www.korea.net/K-InfoHub/SubMainDetail/view?articleId=4045&headwordCd=60&headwordGroupCd=25&pageIndex=1)
